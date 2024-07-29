@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, Bem vindo ao  meu perfil ❤️
 
-<!--
-**joaovictorcaa/joaovictorcaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Victor 
 
-Here are some ideas to get you started:
+- Estou Estudando na Alura
+- Estou me Desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus progetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo 📧
+
+00001114786044sp@al.educacao.sp.gov.br
+@0001114786044sp
+
+
+![](https://media1.tenor.com/m/du4ySIzDTb4AAAAC/deadpool-3-splits.gif)
+
+
+
+
+
+
